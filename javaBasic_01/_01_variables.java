@@ -4,8 +4,8 @@ package javaBasic_01;
 public class _01_variables {
 
 	public static void main(String[] args) {
-		System.out.print(3+5);
-		System.out.print(8+7);
+		System.out.print(3+5); //8
+		System.out.print(8+7); //15
 		
 		//int num1=3;
 		//int num2=5;

@@ -20,3 +20,4 @@
 2) But after that oracle brought the sun microsystem 
 3) in every 6 month we got update
 4) right now java launched jdk 20
+5) Java 21 and Java 17 available now. JDK 21 is the latest long-term support release of Java SE      Platform.
