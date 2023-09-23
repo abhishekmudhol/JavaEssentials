@@ -59,4 +59,15 @@ If the result is true, it will do false.
 * Not operator just do the opposite.
 
 - We can use as much logical operators as we want in between the relational operations.
+
+
+ & vs && 
+
+&& -> save time (short circuit)
+
+The & operator evaluates both operands, regardless of their value. 
+It then performs a bitwise AND operation on the operands and returns the result. 
+The && operator, on the other hand, evaluates its operands only if necessary. 
+If the first operand is false , it returns false without evaluating the second operand.
+
 */
